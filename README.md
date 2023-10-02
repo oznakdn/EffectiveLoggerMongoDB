@@ -60,11 +60,14 @@ public class WeatherForecastController : ControllerBase
 }
 ```
 ### Console
-![Console](https://github.com/oznakdn/EffectiveLoggerMongoDB/assets/79724084/aba26e72-a21a-4e2d-b534-1d9561a6cdea)
+![Console](https://github.com/oznakdn/EffectiveLoggerMongoDB/assets/79724084/d30d22a0-49c8-4831-8b47-cbf67b18eb49)
+
 ### File
-![File](https://github.com/oznakdn/EffectiveLoggerMongoDB/assets/79724084/37a28192-6b12-4bab-a520-4f57925ba9ac)
+![File](https://github.com/oznakdn/EffectiveLoggerMongoDB/assets/79724084/51a4b6d0-ec33-4419-9ef5-fb72202dca09)
+
 ### Mongo
-![MongoDB](https://github.com/oznakdn/EffectiveLoggerMongoDB/assets/79724084/5d8cd1f9-5073-40b6-bd0f-a1d6970c29e8)
+![MongoDB](https://github.com/oznakdn/EffectiveLoggerMongoDB/assets/79724084/72de875f-e1c1-48ee-9250-ee9106cb8dd8)
+
 
 
 
