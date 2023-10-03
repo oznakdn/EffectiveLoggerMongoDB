@@ -2,7 +2,7 @@
 
 | Package |  Version | Popularity |
 | ------- | ----- | ----- |
-| `Gleeman.JwtGenerator` | [![NuGet](https://img.shields.io/nuget/v/Gleeman.EffectiveLogger.MongoDB.svg)](https://www.nuget.org/packages/Gleeman.EffectiveLogger.MongoDB) | [![Nuget](https://img.shields.io/nuget/dt/Gleeman.EffectiveLogger.MongoDB.svg)](https://www.nuget.org/packages/Gleeman.EffectiveLogger.MongoDB)
+| `Gleeman.EffectiveLogger.MongoDB` | [![NuGet](https://img.shields.io/nuget/v/Gleeman.EffectiveLogger.MongoDB.svg)](https://www.nuget.org/packages/Gleeman.EffectiveLogger.MongoDB) | [![Nuget](https://img.shields.io/nuget/dt/Gleeman.EffectiveLogger.MongoDB.svg)](https://www.nuget.org/packages/Gleeman.EffectiveLogger.MongoDB)
 
 <br>
 
