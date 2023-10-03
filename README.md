@@ -4,12 +4,6 @@
 | ------- | ----- | ----- |
 | `Gleeman.EffectiveLogger.MongoDB` | [![NuGet](https://img.shields.io/nuget/v/Gleeman.EffectiveLogger.MongoDB.svg)](https://www.nuget.org/packages/Gleeman.EffectiveLogger.MongoDB) | [![Nuget](https://img.shields.io/nuget/dt/Gleeman.EffectiveLogger.MongoDB.svg)](https://www.nuget.org/packages/Gleeman.EffectiveLogger.MongoDB)
 
-<br>
-
-
-## Logging to MongoDB
-
-#### Install packages
 `dotnet` CLI
 ```
 $ dotnet add package Gleeman.EffectiveLogger.MongoDB --version 2.0.0
